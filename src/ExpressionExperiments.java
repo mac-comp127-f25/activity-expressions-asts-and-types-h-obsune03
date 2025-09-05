@@ -5,22 +5,22 @@ public class ExpressionExperiments {
         System.out.print("Example 1: ");
         System.out.println(3 * 7 + 2);
 
-        // System.out.print("Example 2: ");
-        // System.out.println(3 + 7 * 2);
+        System.out.print("Example 2: ");
+        System.out.println(3 + 7 * 2);
 
-        // System.out.print("Example 3: ");
-        // System.out.println(8 * 2 + 12 / 4);
+        System.out.print("Example 3: ");
+        System.out.println(8 * 2 + 12 / 4);
 
-        // System.out.print("Example 4: ");
-        // System.out.println(8 * (2 + 12) / 4);
+        System.out.print("Example 4: ");
+        System.out.println(8 * (2 + 12) / 4);
 
         System.out.println("────── Associativity ──────");
 
-        // System.out.print("Example 5: ");
-        // System.out.println(1000 - 100 - 10 - 1);
+        System.out.print("Example 5: ");
+        System.out.println(1000 - 100 - 10 - 1);
 
-        // System.out.print("Example 6: ");
-        // TODO: replace this line with your solution
+        System.out.print("Example 6: ");
+        System.out.println(1000-(100-(10-1)));
 
         // System.out.print("Example 7: ");
         // System.out.println(__ + __ + " is the sum of our ages");  // TODO: fill in your actual ages
